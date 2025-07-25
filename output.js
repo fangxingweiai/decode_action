@@ -1,4 +1,4 @@
-//Fri Jul 25 2025 10:58:24 GMT+0000 (Coordinated Universal Time)
+//Fri Jul 25 2025 10:59:59 GMT+0000 (Coordinated Universal Time)
 //Base:<url id="cv1cref6o68qmpt26ol0" type="url" status="parsed" title="GitHub - echo094/decode-js: JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code" wc="2165">https://github.com/echo094/decode-js</url>
 //Modify:<url id="cv1cref6o68qmpt26olg" type="url" status="parsed" title="GitHub - smallfawn/decode_action: 世界上本来不存在加密，加密的人多了，也便成就了解密" wc="741">https://github.com/smallfawn/decode_action</url>
 var glb = globalThis;
@@ -620,7 +620,6 @@ glb.c93b4da3 = function (_0x24c604, _0x6a35ed, _0x22f624) {
                                                                                                                                                         _0x1cc642["ΙII"] > 0 || _0x1cc642["ΙII"]++;
                                                                                                                                                         return _0x1fdc1b(_0x484194, _0x1cc642["IIΙ"], _0x1cc642["IΙI"], _0x391e0e, _0x1cc642["ΙIΙ"], this, null, 0);
                                                                                                                                                       };
-                                                                                                                                                      window.mnsv2 = _0x1338c6;
                                                                                                                                                       for (_0x1338c6["IIΙ"] = _0xf3aac1 + 4, _0x1338c6["IΙI"] = _0x4e19c9 - 2, _0x1338c6["IΙΙ"] = _0x3714b9, _0x1338c6["ΙII"] = 0, _0x1338c6["ΙIΙ"] = _0x33e19f, _0x1d4fa7[_0x1c5004] = _0x1338c6, _0xf3aac1 += 2 * _0x4e19c9 - 2; _0x30595f > 2153;) {
                                                                                                                                                         2153 === _0x1c5004 && (_0x1d4fa7[_0x1c5004--][_0x1c5004] = _0x1d4fa7[_0x1c5004++]);
                                                                                                                                                         _0x1c5004--;
